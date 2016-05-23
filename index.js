@@ -1,0 +1,1 @@
+exports.writeFile=require("./lib/fs.js");
